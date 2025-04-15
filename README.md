@@ -1,7 +1,9 @@
 # Inventory Management System - Sona LK Developer
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Developer](https://img.shields.io/badge/Developer-Sona_LK_Developer-blue)](https://www.linkedin.com/in/your_linkedin_profile_here) **Sona LK Developer is a robust and feature-rich inventory management system designed to empower medium-sized businesses and shop owners with real-time control over their stock, finances, and cashier operations.**
+[![Developer](https://img.shields.io/badge/Developer-Sona_LK_Developer-blue)](https://www.linkedin.com/in/your_linkedin_profile_here) 
+
+**Sona LK Developer is a robust and feature-rich inventory management system designed to empower medium-sized businesses and shop owners with real-time control over their stock, finances, and cashier operations.**
 
 ![Screenshot of the Dashboard](path/to/dashboard_screenshot.png) ## Table of Contents
 
